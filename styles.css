@@ -35,6 +35,10 @@ a {
   float: right;
 }
 
+.dammit {
+  padding-left: 18px;
+}
+
 .sign-in {
   border: 1px solid #3083FF;
   background-color: #3083FF;
